@@ -13,3 +13,4 @@ pynvml
 pandas
 accelerate
 peft
+decord
