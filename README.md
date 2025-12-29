@@ -37,7 +37,7 @@ pip install -e .
 python download_wan2.1.py
 ```
 
-2. Download the [LongVie2 weights](https://huggingface.co/Vchitect/LongVie2) and place them in `./model/LongVie/`
+2. Download the [LongVie2 weights](https://huggingface.co/Vchitect/LongVie2) and place them in `./models/LongVie/`
 
 ### Inference
 
